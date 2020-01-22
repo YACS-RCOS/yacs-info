@@ -2,6 +2,14 @@
 
 ## Goals
 
+### Student Bugs/Features
+
+Begin real collaboration with students who offer feedback on the product. We should be able to deliver on at least 10 of the features and bugs provided by students over the semester.
+
+Things to develop:
+- Pipeline/Process for evaluating user feedback and engagement
+- Idea Funnel — What ideas are built and which are dismissed for a later date
+
 ### User System
 
 At the current moment, it appears the most important project to finish is the user system. This will enable us to collect data to then provide the administration about improving and observing course selection before the courses hit SIS.
@@ -21,6 +29,17 @@ For this to be possible it would require:
 - Persistent Data (Across Semesters)
 - Ability to tag courses in db
 - Filtering in search on tags and majors
+
+### Analytics Engine
+
+**Pending Decision**
+
+For the school to gain insights about course selection, it requires data visualization to understand trends, changes, and deviations in expected attendance and interest in certain classes. In addition to the requirement for understanding the trends, this should be integrated into the YACS web view itself as an admin-view to allow distribution to other colleges/universities.
+
+For this to be possible it would require:
+- User Event Collection in Persistent DB
+- Classes to be stored over semesters (Data Remodel in DB)
+- Allow simple analytics to be delivered in web-view in YACS product
 
 ### __[Technical]__ Consolidate Technology
 
