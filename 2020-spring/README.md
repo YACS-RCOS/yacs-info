@@ -11,7 +11,7 @@ Some key things left to finish/change:
 - Collection of user data (meta data) [browser, computer, ip, ...]
 - Change to passwordless authentication (email only) _needs design_
 
-### Course Tags [Search]
+### Search — Course Tags
 
 **Pending Decision**
 
@@ -22,7 +22,7 @@ For this to be possible it would require:
 - Ability to tag courses in db
 - Filtering in search on tags and majors
 
-### [Technical] Consolidate Technology
+### __[Technical]__ Consolidate Technology
 
 Transition code from Ruby to Python to enable all CS students to understand and contribute to YACS easily. At the moment, not many devs on the team know Ruby which makes managing the project and code more difficult that it needs to be. Additionally, having a micro-services architecture increases the operational complexity to distribute the code to other schools and manage local and production deployments.
 
