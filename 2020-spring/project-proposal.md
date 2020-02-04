@@ -46,3 +46,20 @@ To ensure the future viability of YACS as a project in RCOS is essential we valu
 ## Efforts
 
 See issues on GitHub for efforts https://github.com/YACS-RCOS/yacs/issues
+
+## Team
+
+Team:
+- Tyler Gentry
+- Sam Gibson
+- Liangbin Zhu
+- Leith Reardon
+- Yuze Ma
+- Daniel Ackermans
+- Soumya Mishra
+- Yushi Feng
+- Joshua Wu
+- Xinhao Luo
+- Martin Paulsen
+- Kyra Jeckering
+- Jacob Shomstein
