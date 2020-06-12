@@ -46,11 +46,11 @@ See issues on GitHub for efforts https://github.com/YACS-RCOS/yacs/issues
 
 ## Milestones
 
-June 19 Everyone on team has made a contribution to the YACS repository
-July 10 Basic iteration of new features complete
-Aug 7 Final iteration of new features
-Aug 14 Key results complete or near completion
-Aug 22 No more bugs
+June 19 Everyone on team has made a contribution to the YACS repository  
+July 10 Basic iteration of new features complete  
+Aug 7 Final iteration of new features  
+Aug 14 Key results complete or near completion  
+Aug 22 No more bugs  
 
 ## Team
 
